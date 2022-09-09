@@ -1,2 +1,3 @@
 *.csv
 *.ppt
+./.ipynb_checkpoints
