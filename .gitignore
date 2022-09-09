@@ -1,3 +1,4 @@
 *.csv
 *.ppt
 ./.ipynb_checkpoints
+./.DS_Store
